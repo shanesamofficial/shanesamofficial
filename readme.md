@@ -22,16 +22,16 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://shanesamofficial.com">Al Siam</a></b>
+                <b><a target="_blank" href="https://shanesamofficial.com">Shane Sam</a></b>
         </samp>
 </h3>
 
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
+    <a href="https://www.google.com/search?q=Shane+Sam+Manappallil">「 Google Me 」</a>
     <br>
-    「 I am a full stack web application developer from <b>Bangladesh</b> 」
+    「 I am a Graphic Designer and full stack web application developer from <b>India</b> 」
     <br>
     <br>
   </samp>
@@ -128,8 +128,8 @@
 </p>
 
 <a> 
-    <a href="https://github.com/shanesamofficial"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=shanesamofficial&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/shanesamofficial"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=shanesamofficial&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/shanesamofficial"><img alt="Shane's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=shanesamofficial&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/shanesamofficial"><img alt="Shane's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=shanesamofficial&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
