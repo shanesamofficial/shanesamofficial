@@ -11,7 +11,7 @@
 </p>
 
  -->
-
+![logo](https://github.com/shanesamofficial/shanesamofficial/blob/main/assets/profile.jpg)
 <a href="https://komarev.com/ghpvc/?username=shanesamofficial">
   <img align="right" src="https://komarev.com/ghpvc/?username=shanesamofficial&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
